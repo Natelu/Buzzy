@@ -1,0 +1,6 @@
+1、安装vsftpd, 启动ftp服务。
+https://www.cnblogs.com/lyongde/p/3187711.html
+2、对vsftpd 指定 用户权限 及 下载目录
+4、pip install pycryptodome  requests
+
+（以上步骤对内网服务器和中转服务器都需进行）
